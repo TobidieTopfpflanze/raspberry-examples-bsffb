@@ -2,8 +2,8 @@
 
 > INFO: Follow the installation steps in the docu or just run it in the examples folder ;D
 
-Github: https://github.com/rm-hull/luma.led_matrix/
-Docs: https://luma-led-matrix.readthedocs.io/en/latest/install.html
+- Github: https://github.com/rm-hull/luma.led_matrix/
+- Docs: https://luma-led-matrix.readthedocs.io/en/latest/install.html
 
 ## Run 
 
